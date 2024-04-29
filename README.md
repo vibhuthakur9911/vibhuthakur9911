@@ -6,15 +6,15 @@
 </p>
 
 🌱 I’m currently learning **React.js and Angular.js**
-`<br>`
+<br>
 👨‍💻 All of my projects are available at [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
-`<br>`
+<br>
 💬 Ask me about **React, Angular, Javascript** and etc.
-`<br>`
+<br>
 📫 How to reach me **vaibhavthakur9911@gmail.com**
-`<br>`
+<br>
 📄 Know about my experiences [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
-`<br>`
+<br>
 ⚡ Fun fact **Talkative as hell 😑**
 
 <p align="center" style="font-weight:600;font-style:italic;font-family: sans-serif">"Hey there! 👋 I'm a seasoned web developer who loves turning ideas into awesome online experiences. I specialize in front-end magic, where I leverage HTML, CSS, and JavaScript to breathe life into designs. Meticulous in my approach, I possess a keen eye for detail and a profound understanding of user-centered design principles. My goal is to fashion websites that are not only visually stunning but also intuitively navigable, captivating users from the first click.</p>
