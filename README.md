@@ -6,18 +6,19 @@
 </p>
 
 🌱 I’m currently learning **React.js and Angular.js**
-<br>
+`<br>`
 👨‍💻 All of my projects are available at [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
-<br>
+`<br>`
 💬 Ask me about **React, Angular, Javascript** and etc.
-<br>
+`<br>`
 📫 How to reach me **vaibhavthakur9911@gmail.com**
-<br>
+`<br>`
 📄 Know about my experiences [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
-<br>
+`<br>`
 ⚡ Fun fact **Talkative as hell 😑**
 
 <p align="center" style="font-weight:600;font-style:italic;font-family: sans-serif">"Hey there! 👋 I'm a seasoned web developer who loves turning ideas into awesome online experiences. I specialize in front-end magic, where I leverage HTML, CSS, and JavaScript to breathe life into designs. Meticulous in my approach, I possess a keen eye for detail and a profound understanding of user-centered design principles. My goal is to fashion websites that are not only visually stunning but also intuitively navigable, captivating users from the first click.</p>
+
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
@@ -27,10 +28,15 @@
 <a href="https://instagram.com/mr.rajput12o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rajput12o8" height="auto" width="35" /></a>
 </p>
 
+
 <h3 align="left">Desigining Tools</h3>
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/></a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></p>
 <h3 align="left">Front-end Technologies</h3>
+
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>   <a href="" target="_blank" rel="noreferrer"> <img src="jquery.png" alt="Jquery" width="40" height="40"/> </a>
 </p>
