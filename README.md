@@ -22,7 +22,7 @@
 <table style="width:100%; border:none;">
 <tbody>
 <tr>
-<td style="max-width:300px; width:50% border:none;"><a href="https://vaibhav-thakur.nelify.app" target="_blank"><img src="vt.png" alt="Vaibhav Thakur"/></a></td>
+<td style="max-width:300px; width:50% border:none;"><a href="https://vaibhav-thakur.netlify.app" target="_blank"><img src="vt.png" alt="Vaibhav Thakur"/></a></td>
 <td style="width:50%; border:none;">
 <p align="center" style="font-weight:600;font-style:italic;font-family: sans-serif">"Hey there! 👋 I'm a seasoned web developer who loves turning ideas into awesome online experiences. I specialize in front-end magic, where I leverage HTML, CSS, and JavaScript to breathe life into designs. Meticulous in my approach, I possess a keen eye for detail and a profound understanding of user-centered design principles. My goal is to fashion websites that are not only visually stunning but also intuitively navigable, captivating users from the first click.</p></td>
 </tr>
