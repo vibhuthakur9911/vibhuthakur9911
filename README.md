@@ -36,7 +36,8 @@
 <a href="https://dev.to/vibhuvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vibhuvibes" height="auto" width="35" /></a> 
 <a href="https://twitter.com/vibhuvibes" target="blank"><img align="center" src="x.png" alt="vibhuvibes" height="auto" width="35" /></a> 
 <a href="https://linkedin.com/in/vaibhav-thakur9911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-thakur9911" height="auto" width="35" /></a>  
-<a href="https://instagram.com/mr.rajput12o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rajput12o8" height="auto" width="35" /></a>
+<a href="https://instagram.com/mr.rajput12o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rajput12o8" height="auto" width="35" /></a>&nbsp;
+<a href="https://vaibhav-thakur.netlify.app" target="blank"><img align="center" src="site.jpg" alt="mr.rajput12o8" height="auto" width="35" /></a>
 </p>
 
 
