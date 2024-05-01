@@ -5,6 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%626cd2&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Graphic+Designer;Embracing+challenges+and+mastering+skills;Always+learning+new+things"></a>
 </p>
 
+
+## <picture><img src = "abt.gif?raw=true" width = 50px></picture> About me
+
+
 🌱 I’m currently learning **React.js and Angular.js**
 <br>
 👨‍💻 All of my projects are available at [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
@@ -31,15 +35,8 @@
 
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhuthakur9911&show_icons=true) -->
 
-<h3 align="left"  style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vibhuvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vibhuvibes" height="auto" width="35" /></a> 
-<a href="https://twitter.com/vibhuvibes" target="blank"><img align="center" src="x.png" alt="vibhuvibes" height="auto" width="35" /></a> 
-<a href="https://linkedin.com/in/vaibhav-thakur9911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-thakur9911" height="auto" width="35" /></a>  
-<a href="https://instagram.com/mr.rajput12o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rajput12o8" height="auto" width="35" /></a>&nbsp;
-<a href="https://vaibhav-thakur.netlify.app" target="blank"><img align="center" src="site.jpg" alt="mr.rajput12o8" height="auto" width="35" /></a>
-</p>
-
+  ## 🛠️ My Skills
+-------------------
 
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Desigining Tools</h3>
 
@@ -72,5 +69,16 @@
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Other Skills</h3>
 
 <p align="left" > <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+
+
+<h3 align="left"  style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/vibhuvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vibhuvibes" height="auto" width="35" /></a> 
+<a href="https://twitter.com/vibhuvibes" target="blank"><img align="center" src="x.png" alt="vibhuvibes" height="auto" width="35" /></a> 
+<a href="https://linkedin.com/in/vaibhav-thakur9911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-thakur9911" height="auto" width="35" /></a>  
+<a href="https://instagram.com/mr.rajput12o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rajput12o8" height="auto" width="35" /></a>&nbsp;
+<a href="https://vaibhav-thakur.netlify.app" target="blank"><img align="center" src="site.jpg" alt="mr.rajput12o8" height="auto" width="35" /></a>
+</p>
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=tech)](https://github.com/piyushsuthar/github-readme-quotes)
