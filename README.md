@@ -8,6 +8,7 @@
 
 ## <picture><img src = "abt.gif?raw=true" width = 50px></picture> About me
 
+<br>
 
 🌱 I’m currently learning **React.js and Angular.js**
 <br>
@@ -21,7 +22,7 @@
 <br>
 ⚡ Fun fact **Talkative as hell 😑**
 
-
+<br>
 
 <table style="width:100%; border:none;">
 <tbody>
@@ -32,6 +33,7 @@
 </tr>
 </tbody>
 </table>
+<br>
 
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhuthakur9911&show_icons=true) -->
 
