@@ -40,7 +40,7 @@
   ## 🛠️ My Skills
 -------------------
 
-<h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Desigining Tools</h3>
+<h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Designing Tools</h3>
 
 
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/></a> 
