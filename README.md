@@ -1,10 +1,11 @@
 <h1 align="center">Hi<img src="Hi.gif" style="width:27px; line-height:0;">, I'm Vaibhav Thakur</h1>
 <h2 align="center" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:30px"> Enthusiastic Web Dev & Ambitious dreamer 🌐</h2>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%626cd2&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Graphic+Designer;Embracing+challenges+and+mastering+skills;Always+learning+new+things"></a>
-</p>
 
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=626cd2&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Graphic+Designer;Embracing+challenges+and+mastering+skills;Always+learning+new+things"></a>
+</p>
 
 ## <picture><img src = "abt.gif?raw=true" width = 50px></picture> About me
 
