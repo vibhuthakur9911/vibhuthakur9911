@@ -48,7 +48,7 @@
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="figma" width="40" height="40"/></a></p>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></a></p>
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Front-end Technologies</h3>
 
 <p align="left">
@@ -62,8 +62,9 @@
 </p>
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Frameworks </h3>
 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a>
+<p align="left"> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a> 
 </p>
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Backend Technologies</h3>
@@ -75,11 +76,8 @@
 
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Other Skills</h3>
 
-<p align="left" > 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-</p>
-
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"  > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a></p>
 <h3 align="left" style="padding:5px 0 10px 0 "><img src="code.gif" alt="Front-end Technologies" style="width:25px"> Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vibhuvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vibhuvibes" height="auto" width="35" /></a> 
