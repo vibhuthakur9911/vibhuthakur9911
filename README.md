@@ -13,15 +13,15 @@
 <br>
 
 🌱 I’m currently learning **React.js and Angular.js**
-`<br>`
+<br>
 👨‍💻 All of my projects are available at [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
-`<br>`
+<br>
 💬 Ask me about **React, Angular, Javascript** and etc.
-`<br>`
+<br>
 📫 How to reach me **vaibhavthakur9911@gmail.com**
-`<br>`
+<br>
 📄 Know about my experiences [https://vaibhav-thakur.netlify.app/](https://vaibhav-thakur.netlify.app/)
-`<br>`
+<br>
 ⚡ Fun fact **Talkative as hell 😑**
 
 <br>
