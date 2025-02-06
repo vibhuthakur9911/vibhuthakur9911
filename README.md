@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handlee&pause=1000&font=Time+New+Roman&color=626cd2&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Graphic+Designer;Embracing+challenges+and+mastering+skills;Always+learning+new+things"></a>
 </p> -->
 
-## `<picture><img src = "abt.gif?raw=true" width = 50px>``</picture>` About me
+## <picture><img src="abt.gif" width = 50px></picture> About me
 
 <br>
 
